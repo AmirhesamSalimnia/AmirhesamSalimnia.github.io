@@ -9,7 +9,7 @@
 
 <!-- PROJECT LOGO -->
 
-[![Site preview](/social-image.PNG)](https://amirhesamsalimnia.github.io/)
+[![Site preview](social-image.PNG)](https://amirhesamsalimnia.github.io/)
 
 ## Technology Stack 
 
