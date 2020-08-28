@@ -1,4 +1,4 @@
-<!-- PROJECT LOGO -->
+
 <br />
 <p align="center">
   <h1 align="center">Amirhesam Salimnia's Personal Website</h1>
@@ -7,7 +7,9 @@
   </p>
 </p>
 
-[![Site preview](/public/social-image.PNG)](https://jefferyjohn.github.io/)
+<!-- PROJECT LOGO -->
+
+[![Site preview](/public/social-image.PNG)](https://amirhesamsalimnia.github.io/)
 
 ## Technology Stack 
 
